@@ -1,5 +1,5 @@
 layout: page
-title: "Bounties"
+title: Bounties
 permalink: /bounties/
 
 Bounties are listed in the following format:

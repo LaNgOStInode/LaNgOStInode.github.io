@@ -1,5 +1,6 @@
 # DREDNEWS
 
 ## - July 13, 2022
-### - The Drednews ship was made!
-Today, the Drednews ship was made to share information and news about drednot.io!
+### - LowCalculator is putting up a bounty!
+LowCalculator, a part of the Beer clan, has had 10,000 flux stolen from them by the Rebel alliance. They are offering 5,000 flux to the person/people that can get their flux back!
+

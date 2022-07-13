@@ -1,2 +1,2 @@
-# news-drone
-The Drednot 'News Drone' is on Github!
+# News Drone
+The Drednot ship, 'News Drone' is on Github!

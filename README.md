@@ -1,2 +1,2 @@
 # News Drone
-The Drednot ship, 'News Drone' is on Github!
+Your go-to place for news, events, and bounties!

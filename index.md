@@ -1,5 +1,4 @@
-# Active bounties:
-**Rebel Alliance** - **5000 flux**
+Home
 
 # July 13, 2022
 ## LowCalculator is putting up a bounty!

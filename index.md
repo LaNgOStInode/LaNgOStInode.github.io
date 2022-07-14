@@ -1,5 +1,3 @@
-title: Drednews
-
 # Home
 
 ## July 13, 2022
